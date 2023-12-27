@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Amatic SC', sans-serif;
+font-family: 'Carattere', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+color: deepskyblue;
+}
+
+.li{
+    font-family: 'Sevillana', cursive;
+    color: rgb(170, 0, 255);
+}
+h2{
+    font-family: 'Carattere', cursive;
+    color: brown;
+}
+p{
+    font-family: 'Carattere', cursive;
+font-family: 'Pacifico', cursive;
+color: rgb(0, 255, 68);
+}
+
+h5{
+    font-family: 'Carattere', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+}
