@@ -2,8 +2,7 @@
 I'm Kashyap Surani, a dedicated<br>Full Stack Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap, jQuery,<br>React.js, Node.js, and Express.js. Passionate about crafting seamless digital experiences, I<br>thrive on mastering new technologies and pushing boundaries in web development. With a keen<br>eye for design and a knack for problem-solving, I specialize in building responsive,<br>user-friendly applications that exceed expectations. Beyond coding, I enjoy staying updated<br>on tech trends, seeking outdoor adventures, and connecting with like-minded individuals.<br>Let's collaborate and turn ideas into impactful web solutions!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
