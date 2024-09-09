@@ -7,9 +7,9 @@ I'm Kashyap Surani, a dedicated<br>Full Stack Web Developer with expertise in HT
 # 💻 Tech Stack:
 ![Html](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript whith DSA](https://img.shields.io/badge/JavaScript_with_DSA-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstarp](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React.js](https://img.shields.io/badge/react.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=white) ![React-Netive](https://img.shields.io/badge/react_netive-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kashyapsurani&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kashyapsurani&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kashyapsurani&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyapsurani&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyapsurani&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
