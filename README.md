@@ -1,11 +1,9 @@
 # 💫 About Me:
 I'm Kashyap Surani, a dedicated<br>Full Stack Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap, jQuery,<br>React.js, Node.js, and Express.js. Passionate about crafting seamless digital experiences, I<br>thrive on mastering new technologies and pushing boundaries in web development. With a keen<br>eye for design and a knack for problem-solving, I specialize in building responsive,<br>user-friendly applications that exceed expectations. Beyond coding, I enjoy staying updated<br>on tech trends, seeking outdoor adventures, and connecting with like-minded individuals.<br>Let's collaborate and turn ideas into impactful web solutions!
 
-
-
-
 # 💻 Tech Stack:
 ![Html](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript whith DSA](https://img.shields.io/badge/JavaScript_with_DSA-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstarp](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React.js](https://img.shields.io/badge/react.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=white) ![React-Netive](https://img.shields.io/badge/react_netive-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kashyapsurani&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kashyapsurani&theme=dark&hide_border=true)<br/>
